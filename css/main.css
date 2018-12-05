@@ -29,7 +29,8 @@ i{
   transform: translate(120%,110%);
 }
 .navstyle{
-  background-color: gray;
+  background-color: #F7F7F7;
+  box-shadow: 1px 1px 10px #00000033;
   /* background-color: #F3DFA2; */
 }
 .cardText{
@@ -58,7 +59,7 @@ ul.timeline > li {
 /* #7EBDC2 */
 ul.timeline > li:before {
   content: ' ';
-  background: #FFD670;
+  background: #F7F7F7;
   display: inline-block;
   position: absolute;
   border-radius: 50%;
